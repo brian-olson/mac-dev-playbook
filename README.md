@@ -89,9 +89,9 @@ Homebrew Applications (installed with Homebrew Cask):
   - [has gitkraken]
 
 MAS (Mac App Store) Applications 
-  - [Magnet] (https://apps.apple.com/us/app/magnet/id441258766)
-  - [Microsoft To Do] (https://apps.apple.com/us/app/microsoft-to-do/id1274495053)
-  - [Smart Countdown Timer] (https://apps.apple.com/us/app/smart-countdown-timer/id1410709951)
+  - [Magnet](https://apps.apple.com/us/app/magnet/id441258766)
+  - [Microsoft To Do](https://apps.apple.com/us/app/microsoft-to-do/id1274495053)
+  - [Smart Countdown Timer](https://apps.apple.com/us/app/smart-countdown-timer/id1410709951)
 
 
 Packages (installed with Homebrew):
