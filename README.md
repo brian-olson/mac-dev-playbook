@@ -70,23 +70,23 @@ Homebrew Applications (installed with Homebrew Cask):
   - [Docker](https://www.docker.com/)
   - [Homebrew](http://brew.sh/)
   - [Slack](https://slack.com/)
-  - [docker]
-  - [slack]
-  - [visual-studio]
-  - [brave-browser]
-  - [cyberduck]
-  - [notion]
-  - [vmware-fusion]
-  - [iterm2]
-  - [microsoft-office]
-  - [logitech-presentation]
-  - [app-cleaner]
-  - [istat-menus]
-  - [atom]
-  - [whatsapp]
-  - [signal]
-  - [little-snitch]
-  - [has gitkraken]
+  - [docker](https://www.docker.com/)
+  - [slack](https://www.slack.com/)
+  - [visual-studio](https://visualstudio.microsoft.com/)
+  - [brave-browser](https://www.brave.com/)
+  - [cyberduck](https://cyberduck.io)
+  - [notion](https://www.notion.so)
+  - [vmware-fusion](https://www.vmware.com/products/fusion.html)
+  - [iterm2](https://www.iterm2.com)
+  - [microsoft-office](https://www.office.com)
+  - [logitech-presentation](https://www.logitech.com/en-us/product/spotlight-presentation-remote)
+  - [app-cleaner](https://nektony.com/mac-app-cleaner)
+  - [istat-menus](https://bjango.com/mac/istatmenus/)
+  - [atom](https://github.atom.io/)
+  - [whatsapp](https://www.whatsapp.com/)
+  - [signal](https://signal.org/)
+  - [little-snitch](https://www.obdev.at/products/littlesnitch/index.html)
+  - [gitkraken](https://www.gitkraken.com/)
 
 MAS (Mac App Store) Applications 
   - [Magnet](https://apps.apple.com/us/app/magnet/id441258766)
