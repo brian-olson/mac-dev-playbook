@@ -65,53 +65,42 @@ Any variable can be overridden in `config.yml`; see the supporting roles' docume
 
 ## Included Applications / Configuration (Default)
 
-Applications (installed with Homebrew Cask):
+Homebrew Applications (installed with Homebrew Cask):
 
-  - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/)
   - [Docker](https://www.docker.com/)
-  - [Dropbox](https://www.dropbox.com/)
-  - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-  - [Google Chrome](https://www.google.com/chrome/)
-  - [Handbrake](https://handbrake.fr/)
   - [Homebrew](http://brew.sh/)
-  - [LICEcap](http://www.cockos.com/licecap/)
-  - [LimeChat](http://limechat.net/mac/)
-  - [MacVim](http://macvim-dev.github.io/macvim/)
-  - [nvALT](http://brettterpstra.com/projects/nvalt/)
-  - [Sequel Pro](https://www.sequelpro.com/) (MySQL client)
-  - [Skitch](https://evernote.com/skitch/)
   - [Slack](https://slack.com/)
-  - [Sublime Text](https://www.sublimetext.com/)
-  - [Transmit](https://panic.com/transmit/) (S/FTP client)
-  - [Vagrant](https://www.vagrantup.com/)
+  - [docker]
+  - [slack]
+  - [visual-studio]
+  - [brave-browser]
+  - [cyberduck]
+  - [notion]
+  - [vmware-fusion]
+  - [iterm2]
+  - [microsoft-office]
+  - [logitech-presentation]
+  - [app-cleaner]
+  - [istat-menus]
+  - [atom]
+  - [whatsapp]
+  - [signal]
+  - [little-snitch]
+  - [has gitkraken]
+
+MAS (Mac App Store) Applications 
+  - [Magnet] (https://apps.apple.com/us/app/magnet/id441258766)
+  - [Microsoft To Do] (https://apps.apple.com/us/app/microsoft-to-do/id1274495053)
+  - [Smart Countdown Timer] (https://apps.apple.com/us/app/smart-countdown-timer/id1410709951)
+
 
 Packages (installed with Homebrew):
 
-  - autoconf
-  - bash-completion
-  - doxygen
-  - gettext
-  - gifsicle
   - git
-  - go
   - gpg
-  - hub
-  - httpie
-  - iperf
-  - libevent
-  - sqlite
-  - mcrypt
   - nmap
-  - node
-  - nvm
-  - php
   - ssh-copy-id
-  - cowsay
-  - readline
-  - openssl
-  - pv
   - wget
-  - wrk
 
 My [dotfiles](https://github.com/geerlingguy/dotfiles) are also installed into the current user's home directory, including the `.osx` dotfile for configuring many aspects of macOS for better performance and ease of use. You can disable dotfiles management by setting `configure_dotfiles: no` in your configuration.
 
