@@ -45,12 +45,23 @@ homebrew_cask_apps:
   - logitech-presentation
   - app-cleaner
   - istat-menus
+  - atom
+  - whatsapp
+  - signal
+  - little-snitch
+  - gitkraken
 
 
 # See `geerlingguy.mas` role documentation for usage instructions.
-mas_installed_apps: []
-mas_email: "brian@hurrikane.net"
+# mas_installed_apps: []
+mas_email: ""
 mas_password: ""
+mas_signin_dialog: false # do I need this?
+
+mas_installed_apps:
+    - { id: 441258766, name: "Magnet" }
+    - { id: 1274495053, name: "Microsoft To Do"}
+    - { id: 1410709951, name: "Smart Countdown Timer"}
 
 osx_script: "~/.osx --no-restart"
 
