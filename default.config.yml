@@ -20,11 +20,8 @@ homebrew_installed_packages:
 #  - ansible # Installed via Pip.
   - git
   - gpg
-  - httpie
-  - iperf
   - nmap
   - ssh-copy-id
-  - openssl
   - wget
 
 homebrew_taps:
@@ -50,6 +47,7 @@ homebrew_cask_apps:
   - signal
   - little-snitch
   - gitkraken
+  - do-not-disturb
 
 
 # See `geerlingguy.mas` role documentation for usage instructions.
